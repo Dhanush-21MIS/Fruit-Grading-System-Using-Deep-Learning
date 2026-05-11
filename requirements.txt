@@ -1,0 +1,36 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+Pillow
+
+# Deep Learning Framework
+tensorflow
+
+# For EfficientNet
+efficientnet
+
+# PyTorch (Required for ConvNeXt and Swin Transformer)
+torch
+torchvision
+timm
+
+# Jupyter / Colab Support
+notebook
+ipykernel
+
+# Image Processing & Utilities
+albumentations
+seaborn
+tqdm
+
+# File Handling
+h5py
+
+# Model Evaluation
+scipy
+
+# Dataset Handling
+kagglehub
